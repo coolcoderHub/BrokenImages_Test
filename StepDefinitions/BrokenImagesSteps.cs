@@ -52,7 +52,7 @@ namespace UnitTestProject_SpecFlow.StepDefinitions
         public void ThenWriteBrokenImagesCount()
         {
             Console.WriteLine("The total number of broken images are:" + brokenImagesCount);
-            Assert.AreEqual(brokenImagesCount, 0);
+            Assert.AreEqual(0,brokenImagesCount);
             driver.Quit();
         }
     }
