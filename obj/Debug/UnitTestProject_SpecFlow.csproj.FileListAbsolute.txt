@@ -71,3 +71,4 @@ C:\Users\ LO\source\repos\UnitTestProject_SpecFlow\BrokenImages_Test\obj\Debug\U
 C:\Users\ LO\source\repos\UnitTestProject_SpecFlow\BrokenImages_Test\obj\Debug\UnitTestProject_SpecFlow.csproj.CopyComplete
 C:\Users\ LO\source\repos\UnitTestProject_SpecFlow\BrokenImages_Test\obj\Debug\UnitTestProject_SpecFlow.dll
 C:\Users\ LO\source\repos\UnitTestProject_SpecFlow\BrokenImages_Test\obj\Debug\UnitTestProject_SpecFlow.pdb
+C:\Users\ LO\source\repos\UnitTestProject_SpecFlow\BrokenImages_Test\obj\Debug\UnitTestProject_SpecFlow.csprojAssemblyReference.cache

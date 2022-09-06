@@ -83,12 +83,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Custom\CustomExpectedConditions.cs" />
+    <Compile Include="StepDefinitions\AddProductToBasketSteps.cs" />
     <Compile Include="StepDefinitions\BrokenImagesSteps.cs" />
     <Compile Include="StepDefinitions\UploadFileSteps.cs" />
     <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Features\AddProductToBasket.feature" />
     <None Include="Features\BrokenImages.feature" />
     <None Include="Features\UploadFile.feature" />
     <None Include="packages.config" />
